@@ -1,12 +1,12 @@
 {
-    "theme_color": "#090909",
-    "background_color": "#ffffff",
+    "theme_color": "#7398d3",
+    "background_color": "#303030",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/index.html",
-    "name": "Star Trek The Next Generation Quiz",
-    "short_name": "ST Quiz",
-    "description": "A quiz about Star Trek The Next Generation TV Show.",
+    "start_url": "/",
+    "name": "Babylon 5 Quiz",
+    "short_name": "B5 Quiz",
+    "description": "Ten (ish) question quiz on the TV show Babylon 5",
     "icons": [
         {
             "src": "icons/icon-192x192.png",
