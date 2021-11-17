@@ -91,7 +91,7 @@ body {
   background-color:rgba(0,0,0,0.8);   
 }
 
-#message {
+#message-box {
     width:80%;
     min-width:400px;
     padding:20px;
@@ -110,6 +110,9 @@ body {
 
 #retry {
 	display: none;
+	background-color: #303030;
+	padding: 3px;
+	max-width: 30%;
 }
 
 

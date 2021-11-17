@@ -95,7 +95,7 @@ let questions = [
 	"image":"quizimages/q1.jpg",
 	"answer": "b",
 	"hint": "It's more than a century away, but not too far."
-   },
+   }/*,
    {
 	"question": "Which frightening antagonists are cyborgs that often attack the Enterprise?",
 	"a": "The Ferengi",
@@ -105,7 +105,7 @@ let questions = [
 	"image":"quizimages/q2.jpg",
 	"answer": "c",
 	"hint": "It's more than a century away, but not too far."
-   }
+   } */
  ];
  
  
@@ -242,14 +242,11 @@ let questions = [
 		else {
 			message = "None of those answers were right. I'm ashamed of you.";
 		}
-		//make the retry button
-		let retry = document.createElement("button");
-		retry.setAttribute(onclick, "location.reload()");
-		retry.innerHTML = "retry?";
 		
 		//show the lightbox
 		document.getElementById("lightbox").style.display = "block";
-		document.getElementById("message").innerHTML = message + retry;
+		document.getElementById("message").innerHTML = message;
+		document.getElementById("retry").style.display = "block";
 }
  
  
