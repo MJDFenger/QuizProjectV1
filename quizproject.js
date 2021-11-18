@@ -1,3 +1,4 @@
+//define variables
 let currentQuestion = 0;
 let score = 0;
 let hintsLeft = 2; //lets user see 2 hints
@@ -108,6 +109,10 @@ let questions = [
    } */
  ];
  
+ //load service worker
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js');
+}
  
  function loadQuestion() {
 	 qStartBox = 0;
