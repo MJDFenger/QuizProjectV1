@@ -23,7 +23,7 @@ let questions = [
 	"b": "That one just happened to be where the interesting stuff happened.",
 	"c": "Babylon 5 is the primarily human-populated one.",
 	"d": "All the other Babylon stations were destroyed.",
-	"image":"quizimages/q1.jpg",
+	"image":"quizimages/q2.jpg",
 	"answer": "d",
 	"hint": "What's left of Babylon 4 becomes relevant to the plot."
    },
@@ -33,7 +33,7 @@ let questions = [
 	"b": "Susan Ivanova",
 	"c": "Michael Garibaldi",
 	"d": "Lyta Alexander",
-	"image":"quizimages/q1.jpg",
+	"image":"quizimages/q3.jpg",
 	"answer": "c",
 	"hint": "Ivanova's the trick answer."
    },
@@ -43,7 +43,7 @@ let questions = [
 	"b": "The Vorlons",
 	"c": "Both",
 	"d": "Neither",
-	"image":"quizimages/q1.jpg",
+	"image":"quizimages/q4.jpg",
 	"answer": "c",
 	"hint": "Space Demons and Space Fey/Angels. How long can either stay allied with mortals?"
    },
@@ -53,7 +53,7 @@ let questions = [
 	"b": "The Minbari",
 	"c": "The Humans",
 	"d": "The Vorlons",
-	"image":"quizimages/q1.jpg",
+	"image":"quizimages/q5.jpg",
 	"answer": "a",
 	"hint": "The Narn and Centauri ambassadors spent much of season 1 scheming against each other."
    },
@@ -63,7 +63,7 @@ let questions = [
 	"b": "Mushroom-like aliens who caused problems in the station's Medlab.",
 	"c": "An alien hunter of souls.",
 	"d": "Technologically powered mages with skills of illusion and prophecy.",
-	"image":"quizimages/q1.jpg",
+	"image":"quizimages/q6.jpg",
 	"answer": "b",
 	"hint": "The series was just fine with historical references and fantasy-like elements."
    },
@@ -73,7 +73,7 @@ let questions = [
 	"b": "His tactics brought down a Minbari warship called the Black Star",
 	"c": "He played a critical role in defeating the Shadows",
 	"d": "A nuclear physics experiment he led that went horribly wrong",
-	"image":"quizimages/q1.jpg",
+	"image":"quizimages/q7.jpg",
 	"answer": "b",
 	"hint": "His career was only in the military."
    },
@@ -83,7 +83,7 @@ let questions = [
 	"b": "Susan Ivanova",
 	"c": "Talia Winters",
 	"d": "Captain Lochley",
-	"image":"quizimages/q1.jpg",
+	"image":"quizimages/q8.jpg",
 	"answer": "d",
 	"hint": "One replaced another in the final season"
    },
@@ -93,9 +93,9 @@ let questions = [
 	"b": "1994 - 1998",
 	"c": "1978 - 1988",
 	"d": "1997 - 2000",
-	"image":"quizimages/q1.jpg",
+	"image":"quizimages/q9.jpg",
 	"answer": "b",
-	"hint": "It's more than a century away, but not too far."
+	"hint": "It was filmed over a similar span of time to the story's main events."
    }/*,
    {
 	"question": "Which frightening antagonists are cyborgs that often attack the Enterprise?",
