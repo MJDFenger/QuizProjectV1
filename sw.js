@@ -9,8 +9,15 @@ self.addEventListener('install', function(event) {
         '/quizproject.css',
         '/quizproject.js',
         '/quizimages/q1.jpg',
-		'/quizimages/q2.jpg',
-		'/notfound.txt'
+	'/quizimages/q2.jpg',
+	'/quizimages/q3.jpg',
+	'/quizimages/q4.jpg',
+	'/quizimages/q5.jpg',
+	'/quizimages/q6.jpg',
+	'/quizimages/q7.jpg',
+	'/quizimages/q8.jpg',
+	'/quizimages/q9.jpg',
+    	'/notfound.txt'
 
       ]);
     })
